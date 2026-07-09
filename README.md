@@ -1,0 +1,2 @@
+# WindowsEmergencyTool
+AI辅助windows本地应急辅助工具
